@@ -1,2 +1,3 @@
-# pyvel
- A python library that brings useful laravel functions and classes into the python world.
+# Pyvel
+
+A python library that brings useful Laravel functions and classes into the python world.
